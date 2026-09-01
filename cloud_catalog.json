@@ -1,5 +1,26 @@
 [
   {
+    "id": "11186ab8220a4dca9af9b46092417923",
+    "hardwareId": "PCI\\VEN_8086\u0026DEV_15E3\u0026SUBSYS_8298103C\u0026REV_00",
+    "chipsetId": "VEN_8086\u0026DEV_15E3",
+    "deviceName": "Intel(R) Ethernet Connection (5) I219-LM",
+    "vendorName": "Intel",
+    "motherboard": "HP 8298",
+    "motherboardVendor": "HP",
+    "driverVersion": "12.19.2.60",
+    "driverDate": "2024-02-19",
+    "driverSysName": "e1d.sys",
+    "serviceName": "e1dexpress",
+    "osVersion": "Microsoft Windows NT 10.0.19045.0",
+    "downloadUrl": "https://github.com/yousefesam431/OpenPNP-Cloud-Drivers/releases/download/v1.0-database/VEN_8086.DEV_15E3_8298_12.19.2.60.zip",
+    "packageFileName": "VEN_8086\u0026DEV_15E3_8298_12.19.2.60.zip",
+    "packageSize": 937369,
+    "downloadCount": 0,
+    "uploaderName": "OpenPNP User",
+    "createdAt": "2026-09-01T16:06:40.7957271Z",
+    "notes": "Captured from 8298 (Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz)"
+  },
+  {
     "id": "16a8aaebbc0740e09ec5da1ee3a194e8",
     "hardwareId": "PCI\\VEN_8086\u0026DEV_153A\u0026SUBSYS_1998103C\u0026REV_04",
     "chipsetId": "VEN_8086\u0026DEV_153A",
