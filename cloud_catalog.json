@@ -1,9 +1,9 @@
 [
   {
-    "id": "0b44cb731d254fd09ed1947397fcb812",
+    "id": "5243d3e87d0544ea9f22e3ae80f4c498",
     "hardwareId": "PCI\\VEN_8086\u0026DEV_10A7\u0026SUBSYS_10A78086\u0026REV_02",
     "chipsetId": "VEN_8086\u0026DEV_10A7",
-    "deviceName": "Intel(R) 82575EB Gigabit Network Connection #2",
+    "deviceName": "Intel(R) 82575EB Gigabit Network Connection",
     "vendorName": "Intel",
     "motherboard": "Gigabyte Technology Co., Ltd. H410M S2 V3",
     "motherboardVendor": "Gigabyte Technology Co., Ltd.",
@@ -12,12 +12,12 @@
     "driverSysName": "e1q63x64.sys",
     "serviceName": "e1qexpress",
     "osVersion": "Microsoft Windows NT 10.0.19045.0",
-    "downloadUrl": "https://github.com/yousefesam431/OpenPNP-Cloud-Drivers/releases/download/v1.0-database/VEN_8086.DEV_10A7_H410M.S2.V3_12.7.27.0.zip",
+    "downloadUrl": "https://github.com/yousefesam431/OpenPNP-Cloud-Drivers/releases/download/v1.0-database/VEN_8086%26DEV_10A7_H410M%20S2%20V3_12.7.27.0.zip",
     "packageFileName": "VEN_8086\u0026DEV_10A7_H410M S2 V3_12.7.27.0.zip",
-    "packageSize": 684957,
+    "packageSize": 684951,
     "downloadCount": 0,
     "uploaderName": "OpenPNP User",
-    "createdAt": "2026-09-01T15:39:58.1922173Z",
+    "createdAt": "2026-09-01T15:40:11.7410688Z",
     "notes": "Captured from H410M S2 V3 (Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz)"
   },
   {
