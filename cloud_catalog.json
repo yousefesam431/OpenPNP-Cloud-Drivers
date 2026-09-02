@@ -21,7 +21,7 @@
     "notes": "Captured from 8298 (Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz)"
   },
   {
-    "id": "4e4534cc409a42b2ab211bdeb31a23ca",
+    "id": "830fcaaf7441450186c1ef223f5c3c28",
     "hardwareId": "PCI\\VEN_8086\u0026DEV_1539\u0026SUBSYS_85F01043\u0026REV_03",
     "chipsetId": "VEN_8086\u0026DEV_1539",
     "deviceName": "Intel(R) I211 Gigabit Network Connection",
@@ -38,7 +38,7 @@
     "packageSize": 947685,
     "downloadCount": 0,
     "uploaderName": "OpenPNP User",
-    "createdAt": "2026-09-02T14:35:46.186939Z",
+    "createdAt": "2026-09-02T15:11:25.409374Z",
     "notes": "Captured from X99-DELUXE II (Intel(R) Core(TM) i7-6850K CPU @ 3.60GHz)"
   }
 ]
