@@ -1,6 +1,6 @@
 [
   {
-    "id": "03af7abba6f649a2a6b0fc68878fdc97",
+    "id": "4e19b5382da044f884fb90c626a41477",
     "hardwareId": "PCI\\VEN_8086\u0026DEV_15E3\u0026SUBSYS_8298103C\u0026REV_00",
     "chipsetId": "VEN_8086\u0026DEV_15E3",
     "deviceName": "Intel(R) Ethernet Connection (5) I219-LM",
@@ -14,10 +14,10 @@
     "osVersion": "Microsoft Windows NT 10.0.19045.0",
     "downloadUrl": "https://github.com/yousefesam431/OpenPNP-Cloud-Drivers/releases/download/v1.0-cloud/VEN_8086.DEV_15E3_8298_12.19.2.60.pnpzip",
     "packageKey": "VEN_8086\u0026DEV_15E3_8298_12.19.2.60",
-    "packageSize": 975718,
+    "packageSize": 975741,
     "downloadCount": 0,
     "uploaderName": "OpenPNP User",
-    "createdAt": "2026-09-02T15:14:08.0109252Z",
+    "createdAt": "2026-09-02T15:36:45.6474061Z",
     "notes": "Captured from 8298 (Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz)"
   },
   {
