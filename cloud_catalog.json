@@ -1,5 +1,26 @@
 [
   {
+    "id": "1685cf0a613c4063b23a373787887d4f",
+    "hardwareId": "PCI\\VEN_10EC\u0026DEV_8168\u0026SUBSYS_7C311462\u0026REV_15",
+    "chipsetId": "VEN_10EC\u0026DEV_8168",
+    "deviceName": "Realtek PCIe GbE Family Controller #2",
+    "vendorName": "Realtek",
+    "motherboard": "Micro-Star International Co., Ltd. B365M WIND (MS-7C31)",
+    "motherboardVendor": "Micro-Star International Co., Ltd.",
+    "driverVersion": "10.75.324.2025",
+    "driverDate": "2025-03-24",
+    "driverSysName": "rt640x64.sys",
+    "serviceName": "rt640x64",
+    "osVersion": "Microsoft Windows NT 10.0.19045.0",
+    "downloadUrl": "https://github.com/yousefesam431/OpenPNP-Cloud-Drivers/releases/download/v1.0-cloud/VEN_10EC.DEV_8168_B365M.WIND.MS-7C31._10.75.324.2025.pnpzip",
+    "packageKey": "VEN_10EC\u0026DEV_8168_B365M WIND (MS-7C31)_10.75.324.2025",
+    "packageSize": 1805263,
+    "downloadCount": 0,
+    "uploaderName": "OpenPNP User",
+    "createdAt": "2026-09-07T19:05:40.6224183Z",
+    "notes": "Captured from B365M WIND (MS-7C31) (Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz)"
+  },
+  {
     "id": "8e47fe1a91a14cd0bd71570babd0907d",
     "hardwareId": "PCI\\VEN_8086\u0026DEV_15E3\u0026SUBSYS_8298103C\u0026REV_00",
     "chipsetId": "VEN_8086\u0026DEV_15E3",
