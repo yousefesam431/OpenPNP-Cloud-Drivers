@@ -1,5 +1,26 @@
 [
   {
+    "id": "31a93b5cd849426487f3ae4b65c7affd",
+    "hardwareId": "PCI\\VEN_10EC\u0026DEV_8125\u0026SUBSYS_7D961462\u0026REV_05",
+    "chipsetId": "VEN_10EC\u0026DEV_8125",
+    "deviceName": "Realtek Gaming 2.5GbE Family Controller",
+    "vendorName": "Realtek",
+    "motherboard": "Micro-Star International Co., Ltd. MAG B760 TOMAHAWK WIFI (MS-7D96)",
+    "motherboardVendor": "Micro-Star International Co., Ltd.",
+    "driverVersion": "10.75.324.2025",
+    "driverDate": "2025-03-24",
+    "driverSysName": "rt640x64.sys",
+    "serviceName": "rt640x64",
+    "osVersion": "Microsoft Windows NT 10.0.19045.0",
+    "downloadUrl": "https://github.com/yousefesam431/OpenPNP-Cloud-Drivers/releases/download/v1.0-cloud/VEN_10EC.DEV_8125_MAG.B760.TOMAHAWK.WIFI.MS-7D96._10.75.324.2025.pnpzip",
+    "packageKey": "VEN_10EC\u0026DEV_8125_MAG B760 TOMAHAWK WIFI (MS-7D96)_10.75.324.2025",
+    "packageSize": 1806540,
+    "downloadCount": 0,
+    "uploaderName": "OpenPNP User",
+    "createdAt": "2026-09-08T23:05:16.395206Z",
+    "notes": "Captured from MAG B760 TOMAHAWK WIFI (MS-7D96) (Intel(R) Core(TM) i5-14400)"
+  },
+  {
     "id": "b9c16bd27d41467d8c00a31eeda6bd2c",
     "hardwareId": "PCI\\VEN_10EC\u0026DEV_8125\u0026SUBSYS_87D71043\u0026REV_05",
     "chipsetId": "VEN_10EC\u0026DEV_8125",
