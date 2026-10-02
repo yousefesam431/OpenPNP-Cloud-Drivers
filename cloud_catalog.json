@@ -1,5 +1,26 @@
 [
   {
+    "id": "0fcb13f995a1464085870cc6cdf3c71b",
+    "hardwareId": "PCI\\VEN_8086\u0026DEV_153A\u0026SUBSYS_18E4103C\u0026REV_04",
+    "chipsetId": "VEN_8086\u0026DEV_153A",
+    "deviceName": "Intel(R) Ethernet Connection I217-LM",
+    "vendorName": "Intel",
+    "motherboard": "Hewlett-Packard 18E4",
+    "motherboardVendor": "Hewlett-Packard",
+    "driverVersion": "12.15.25.6712",
+    "driverDate": "2017-07-12",
+    "driverSysName": "e1d65x64.sys",
+    "serviceName": "e1dexpress",
+    "osVersion": "Microsoft Windows NT 10.0.17763.0",
+    "downloadUrl": "https://github.com/yousefesam431/OpenPNP-Cloud-Drivers/releases/download/v1.0-cloud/VEN_8086.DEV_153A_18E4_12.15.25.6712.pnpzip",
+    "packageKey": "VEN_8086\u0026DEV_153A_18E4_12.15.25.6712",
+    "packageSize": 876749,
+    "downloadCount": 0,
+    "uploaderName": "OpenPNP User",
+    "createdAt": "2026-10-02T12:41:29.3929617Z",
+    "notes": "Captured from 18E4 (Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz)"
+  },
+  {
     "id": "540a0585344c45578b2e0ba19b4d5f16",
     "hardwareId": "PCI\\VEN_8086\u0026DEV_10D3\u0026SUBSYS_07D015AD\u0026REV_00",
     "chipsetId": "VEN_8086\u0026DEV_10D3",
