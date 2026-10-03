@@ -1,5 +1,26 @@
 [
   {
+    "id": "31079ff782ee450584f31adc1570d3ba",
+    "hardwareId": "PCI\\VEN_10EC\u0026DEV_8168\u0026SUBSYS_7E441462\u0026REV_15",
+    "chipsetId": "VEN_10EC\u0026DEV_8168",
+    "deviceName": "Realtek PCIe GbE Family Controller #4",
+    "vendorName": "Realtek",
+    "motherboard": "Micro-Star International Co., Ltd. PRO H610M-S DDR4 (MS-7E44)",
+    "motherboardVendor": "Micro-Star International Co., Ltd.",
+    "driverVersion": "10.75.324.2025",
+    "driverDate": "2025-03-24",
+    "driverSysName": "rt640x64.sys",
+    "serviceName": "rt640x64",
+    "osVersion": "Microsoft Windows NT 10.0.19045.0",
+    "downloadUrl": "https://github.com/yousefesam431/OpenPNP-Cloud-Drivers/releases/download/v1.0-cloud/VEN_10EC.DEV_8168_PRO.H610M-S.DDR4.MS-7E44._10.75.324.2025.pnpzip",
+    "packageKey": "VEN_10EC\u0026DEV_8168_PRO H610M-S DDR4 (MS-7E44)_10.75.324.2025",
+    "packageSize": 1807752,
+    "downloadCount": 0,
+    "uploaderName": "OpenPNP User",
+    "createdAt": "2026-10-02T23:00:00.2144142Z",
+    "notes": "Captured from PRO H610M-S DDR4 (MS-7E44) (12th Gen Intel(R) Core(TM) i5-12400F)"
+  },
+  {
     "id": "0fcb13f995a1464085870cc6cdf3c71b",
     "hardwareId": "PCI\\VEN_8086\u0026DEV_153A\u0026SUBSYS_18E4103C\u0026REV_04",
     "chipsetId": "VEN_8086\u0026DEV_153A",
